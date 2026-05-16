@@ -1,0 +1,6 @@
+flask==2.3.3
+rembg==2.0.50
+Pillow==10.0.0
+numpy==1.24.3
+onnxruntime==1.15.1
+gunicorn==21.2.0

@@ -1,0 +1,13 @@
+flask
+rembg
+Pillow
+numpy
+onnxruntime
+gunicorn
+fpdf2
+img2pdf
+pdf2image
+Pillow
+reportlab
+cryptography
+pywebpush
